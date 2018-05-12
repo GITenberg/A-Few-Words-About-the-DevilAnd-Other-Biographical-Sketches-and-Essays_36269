@@ -1,0 +1,37 @@
+_repo: A-Few-Words-About-the-DevilAnd-Other-Biographical-Sketches-and-Essays_36269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36269'
+  lccn: '38034607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: 'Autobiography of Charles Bradlaugh -- A few words about the Devil
+  -- New life of David -- New life of Jacob -- New life of Abraham -- New life of
+  Moses -- New life of Jonah -- Who was Jesus Christ? -- What did Jesus teach? --
+  The twelve apostles -- The atonement -- Were Adam and Eve our first parents? --
+  A plea for atheism -- Is there a God? -- Has man a soul? -- Labor''s prayer -- Poverty:
+  its effects on the people -- Why do men starve? -- The land question.'
+title: A Few Words About the Devil, and Other Biographical Sketches and Essays
+url: http://www.gutenberg.org/ebooks/36269
